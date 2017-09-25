@@ -1,0 +1,2 @@
+# Bluto
+crypt-list
